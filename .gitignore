@@ -1,6 +1,6 @@
 bin/
 obj/
-{ProjectName.Solution/ProjectName}/bin/
-{ProjectName.Solution/ProjectName}/obj/
-{ProjectName.Solution/ProjectName.Tests}/bin/
-{ProjectName.Solution/ProjectName.Tests}/obj/
+ToDoList.Solution/ToDoList/bin/
+ToDoList.Solution/ToDoList/obj/
+ToDoList.Solution/ToDoList.Tests/bin/
+ToDoList.Solution/ToDoList.Tests/obj/
