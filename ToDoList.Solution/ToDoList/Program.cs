@@ -29,9 +29,12 @@ namespace ToDoList
           {
             Console.WriteLine("You don't have any items on your list.");
           }
+          int counter = 1;
           foreach (Item item in list)
           {
-            Console.WriteLine(item.Description);
+            string number = counter.ToString();
+            Console.WriteLine(number + ". " + item.Description);
+            counter++;
           }
         }
       }
