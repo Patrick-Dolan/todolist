@@ -1,6 +1,3 @@
-bin/
-obj/
-ToDoList.Solution/ToDoList/bin/
-ToDoList.Solution/ToDoList/obj/
-ToDoList.Solution/ToDoList.Tests/bin/
-ToDoList.Solution/ToDoList.Tests/obj/
+*/bin/
+*/obj/
+
