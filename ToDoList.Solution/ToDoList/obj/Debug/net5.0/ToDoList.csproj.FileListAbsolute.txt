@@ -70,3 +70,6 @@ C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList
 C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Categories\Index.cshtml.g.cs
 C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Categories\New.cshtml.g.cs
 C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Categories\Show.cshtml.g.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Home\FavoritePhotos.cshtml.g.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\dolan\OneDrive\Documents\Epicodus\C# and .NET\Week1-2\todolist\ToDoList.Solution\ToDoList\obj\Debug\net5.0\Razor\Views\Shared\Footer.cshtml.g.cs
