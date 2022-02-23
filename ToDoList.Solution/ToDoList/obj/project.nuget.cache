@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BFW/72d5A7s6FU2q9jXf9CiJymFzEEW9Yd6xslLuPGvqvJOxgomg61dP9PHPF2huejSpDbqiTi0tgguOZ40PJg==",
+  "dgSpecHash": "MBLohnn3QUSK09L3DCFBItMGuKSu+38YPnGXb3DX+WGiIc2JUvqkssW0KzmeaXyl8ynQyPi0Enblr6FlWw2dYw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
+  "projectFilePath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList\\ToDoList.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

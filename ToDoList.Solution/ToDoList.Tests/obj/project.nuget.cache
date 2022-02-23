@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mQw0pefPy/gsBriWonBAdohjZglywOvVnQ0swixYstsqkEgWARHXLMwbOfdjlKIJ5zZrDNU5RLld8gYRk8pl7Q==",
+  "dgSpecHash": "lKXyIb506jBxxoOaRa8ByyjJgo0xoYZbUBdVYAhFs4nSj/d8nHJD7j0uf26BIBT5OgJEhrOSP498lplKL3qabQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
+  "projectFilePath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dolan\\.nuget\\packages\\microsoft.codecoverage\\15.9.0\\microsoft.codecoverage.15.9.0.nupkg.sha512",
     "C:\\Users\\dolan\\.nuget\\packages\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",

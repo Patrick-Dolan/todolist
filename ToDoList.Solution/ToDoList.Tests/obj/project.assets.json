@@ -6922,11 +6922,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
       "projectName": "ToDoList.Tests",
-      "projectPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
+      "projectPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList.Tests\\ToDoList.Tests.csproj",
       "packagesPath": "C:\\Users\\dolan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList.Tests\\obj\\",
+      "outputPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dolan\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6941,8 +6941,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {
-              "projectPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week 1-2 TDD with C#\\todolist\\ToDoList.Solution\\ToDoList\\ToDoList.csproj"
+            "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList\\ToDoList.csproj": {
+              "projectPath": "C:\\Users\\dolan\\OneDrive\\Documents\\Epicodus\\C# and .NET\\Week1-2\\todolist\\ToDoList.Solution\\ToDoList\\ToDoList.csproj"
             }
           }
         }
