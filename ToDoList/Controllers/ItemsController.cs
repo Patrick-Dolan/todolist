@@ -91,13 +91,22 @@ namespace ToDoList.Controllers
     }
 
     [HttpPost]
-    public ActionResult AddCateogry(Item item, int CategoryId)
+    public ActionResult AddCategory(Item item, int CategoryId)
     {
       if (CategoryId != 0)
       {
         _db.CategoryItem.Add(new CategoryItem() {CategoryId = CategoryId, ItemId = item.ItemId});
         _db.SaveChanges();
       }
+      return RedirectToAction("Index");
+    }
+
+    [HttpPost]
+    public ActionResult DeleteCategory(int joinId)
+    {
+      var joinEntry = _db.CategoryItem.FirstOrDefault(entry => entry.CategoryItemId == joinId);
+      _db.CategoryItem.Remove(joinEntry);
+      _db.SaveChanges();
       return RedirectToAction("Index");
     }
   }
