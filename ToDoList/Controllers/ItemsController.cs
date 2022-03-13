@@ -18,8 +18,7 @@ namespace ToDoList.Controllers
 
     public ActionResult Index()
     {
-      List<Item> model = _db.Items.Include(item => item.Category).ToList();
-      return View(model);
+      return View(_db.Items.ToList());
     }
 
     public ActionResult Create()
@@ -38,7 +37,10 @@ namespace ToDoList.Controllers
 
     public ActionResult Details(int id)
     {
-      Item thisItem = _db.Items.FirstOrDefault(item => item.ItemId == id);
+      Item thisItem = _db.Items
+        .Include(item => item.JoinEntities)
+        .ThenInclude(join => join.Category)
+        .FirstOrDefault(item => item.ItemId == id);
       return View(thisItem);
     }
 
